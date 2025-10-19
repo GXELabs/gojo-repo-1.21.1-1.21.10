@@ -1,0 +1,6 @@
+{
+    "parent": "item/technique",
+    "textures": {
+      "icon": "item/infinity_icon"
+    }
+  }

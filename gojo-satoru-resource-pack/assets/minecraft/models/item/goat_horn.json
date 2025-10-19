@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/goat_horn"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "tooting": 1
+            },
+            "model": "item/tooting_goat_horn"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/infinity"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "tooting": 1
+            },
+            "model": "item/gojo_hand_symbol"
+        }
+    ]
+}

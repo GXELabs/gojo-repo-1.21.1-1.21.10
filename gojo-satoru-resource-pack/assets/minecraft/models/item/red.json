@@ -1,0 +1,6 @@
+{
+    "parent": "item/technique",
+    "textures": {
+      "icon": "item/red_icon_small"
+    }
+  }

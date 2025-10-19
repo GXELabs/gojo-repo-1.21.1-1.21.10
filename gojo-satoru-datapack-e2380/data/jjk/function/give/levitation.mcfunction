@@ -1,0 +1,1 @@
+give @s warped_fungus_on_a_stick[item_name='{"text":"Movement Technique: Levitation","italic":false}',custom_model_data=6,custom_data={technique:{user:"Gojo Satoru",name:"Levitation"}},unbreakable={show_in_tooltip:false}]

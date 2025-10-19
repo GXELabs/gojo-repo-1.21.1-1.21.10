@@ -1,0 +1,1 @@
+function jjk:technique/blue/entity/create

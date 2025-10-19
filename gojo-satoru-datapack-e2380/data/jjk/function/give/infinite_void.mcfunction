@@ -1,0 +1,1 @@
+give @s goat_horn[item_name='{"text":"Domain Expansion: Infinite Void","italic":false}',unbreakable={show_in_tooltip:false},custom_model_data=6,custom_data={technique:{user:"Gojo Satoru",name:"Infinite Void"}}]

@@ -1,0 +1,12 @@
+attribute @s minecraft:generic.knockback_resistance base set 10
+attribute @s minecraft:generic.attack_speed base set 4
+attribute @s minecraft:generic.burning_time base set 0
+attribute @s minecraft:generic.explosion_knockback_resistance base set 10
+attribute @s minecraft:generic.movement_efficiency base set 10
+attribute @s minecraft:generic.oxygen_bonus base set 10
+attribute @s minecraft:generic.safe_fall_distance base set 1000000000
+attribute @s minecraft:generic.water_movement_efficiency base set 10
+attribute @s minecraft:player.mining_efficiency base set 10
+attribute @s minecraft:player.block_break_speed base set 10
+attribute @s minecraft:generic.attack_knockback base set 5
+attribute @s minecraft:generic.attack_damage base set 20

@@ -1,0 +1,2 @@
+execute at @e[type=item,nbt={Item:{id:"minecraft:ender_eye",count:6}}] if entity @e[type=item,nbt={Item:{id:"minecraft:nether_star",count:1}},distance=..1] if entity @e[type=item,nbt={Item:{id:"minecraft:totem_of_undying",count:1}},distance=..1] run function jjk:give/six_eyes
+execute as @e[type=item,tag=six_eyes] at @s if entity @p[distance=..1] run function jjk:give/all

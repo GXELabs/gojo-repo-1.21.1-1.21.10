@@ -1,0 +1,27 @@
+function jjk:fill/solid_sphere/1
+setblock ~0 ~-1 ~-1 air
+setblock ~-1 ~1 ~-1 air
+setblock ~-1 ~0 ~1 air
+setblock ~0 ~-1 ~1 air
+setblock ~0 ~1 ~0 air
+setblock ~-1 ~1 ~1 air
+setblock ~-1 ~0 ~-1 air
+setblock ~1 ~-1 ~1 air
+setblock ~1 ~-1 ~-1 air
+setblock ~1 ~0 ~0 air
+setblock ~0 ~0 ~-1 air
+setblock ~-1 ~-1 ~0 air
+setblock ~0 ~0 ~1 air
+setblock ~0 ~1 ~-1 air
+setblock ~0 ~1 ~1 air
+setblock ~1 ~0 ~1 air
+setblock ~1 ~1 ~0 air
+setblock ~1 ~0 ~-1 air
+setblock ~-1 ~-1 ~-1 air
+setblock ~0 ~-1 ~0 air
+setblock ~-1 ~-1 ~1 air
+setblock ~1 ~1 ~-1 air
+setblock ~-1 ~0 ~0 air
+setblock ~-1 ~1 ~0 air
+setblock ~1 ~-1 ~0 air
+setblock ~1 ~1 ~1 air

@@ -1,0 +1,6 @@
+{
+    "parent": "item/technique_charging",
+    "textures": {
+      "icon": "item/blue_icon_small"
+    }
+  }

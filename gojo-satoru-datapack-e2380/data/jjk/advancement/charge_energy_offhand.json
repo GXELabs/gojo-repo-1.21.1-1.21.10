@@ -1,0 +1,28 @@
+{
+    "criteria": {
+        "pull_bow": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "player": [
+                      {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "slots": {
+                                "weapon.offhand": {
+                                    "predicates": {
+                                        "minecraft:custom_data": {"technique":{"user":"Gojo Satoru"}}
+                                    }
+                                }
+                            }
+                        }
+                      }
+                  ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "jjk:event/charge_cursed_energy"
+    }
+  }
+  

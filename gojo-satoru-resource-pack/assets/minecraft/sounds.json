@@ -1,0 +1,37 @@
+{
+    "infinite_void.use": {
+        "sounds": [
+            "custom/infinite_void"
+        ]
+    },
+    "red.use": {
+        "sounds": [
+            "custom/red"
+        ]
+    },
+    "red.charge": {
+        "sounds": [
+            "custom/cursed_technique_reversal"
+        ]
+    },
+    "purple.use": {
+        "sounds": [
+            "custom/purple"
+        ]
+    },
+    "purple.charge": {
+        "sounds": [
+            "custom/hollow_technique"
+        ]
+    },
+    "blue.use": {
+        "sounds": [
+            "custom/blue"
+        ]
+    },
+    "blue.charge": {
+        "sounds": [
+            "custom/cursed_technique_amplification"
+        ]
+    }
+}

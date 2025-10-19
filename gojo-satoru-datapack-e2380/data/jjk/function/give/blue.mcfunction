@@ -1,0 +1,1 @@
+give @s bow[item_name='{"text":"Cursed Technique Lapse: Blue","italic":false}',custom_model_data=1,custom_data={technique:{user:"Gojo Satoru",name:"Blue"}},enchantment_glint_override=false,enchantments={levels:{"minecraft:infinity":1},show_in_tooltip:false},unbreakable={show_in_tooltip:false}]

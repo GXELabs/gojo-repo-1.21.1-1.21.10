@@ -1,0 +1,1 @@
+give @s warped_fungus_on_a_stick[item_name='{"text":"Movement Technique: Teleportation","italic":false}',custom_model_data=5,custom_data={technique:{user:"Gojo Satoru",name:"Teleportation"}},unbreakable={show_in_tooltip:false}]

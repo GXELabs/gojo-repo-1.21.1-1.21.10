@@ -1,0 +1,1 @@
+advancement revoke @s only jjk:player_hurt_entity

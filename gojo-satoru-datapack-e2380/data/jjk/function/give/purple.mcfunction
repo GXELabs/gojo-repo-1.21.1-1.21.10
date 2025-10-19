@@ -1,0 +1,1 @@
+give @s bow[item_name='{"text":"Hollow Technique: Purple","italic":false,"color":"#ff00ff"}',custom_model_data=3,custom_data={technique:{user:"Gojo Satoru",name:"Purple"}},enchantment_glint_override=false,enchantments={levels:{"minecraft:infinity":1},show_in_tooltip:false},unbreakable={show_in_tooltip:false}]

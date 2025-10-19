@@ -1,0 +1,2 @@
+data modify storage jjk arrow.player set from entity @s interaction.player
+execute at @s positioned ~ ~.5 ~ as @e[type=arrow,limit=1,sort=nearest] run function jjk:util/arrow/_give_self with storage jjk arrow

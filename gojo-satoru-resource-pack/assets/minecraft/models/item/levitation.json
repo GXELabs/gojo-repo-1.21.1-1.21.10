@@ -1,0 +1,6 @@
+{
+    "parent": "item/technique",
+    "textures": {
+      "icon": "item/levitate_icon_small"
+    }
+  }

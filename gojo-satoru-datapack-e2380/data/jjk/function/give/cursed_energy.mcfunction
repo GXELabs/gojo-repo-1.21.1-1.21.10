@@ -1,0 +1,1 @@
+give @s arrow[item_name='"Cursed Energy"',custom_model_data=1,enchantments={levels:{knockback:5,sharpness:50},show_in_tooltip:false},enchantment_glint_override=false] 1
